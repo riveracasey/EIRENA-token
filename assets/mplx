@@ -1,5 +1,5 @@
-mplx token metadata create \
-  --mint <DE2CZkzzVWGh5bR7MQfd8Go2fTAzaRpPTmNnH1vfsmaF> \
+mplx core asset create \
+  --mint DE2CZkzzVWGh5bR7MQfd8Go2fTAzaRpPTmNnH1vfsmaF \
   --name "EIRENA" \
   --symbol "EIR" \
   --uri "https://raw.githubusercontent.com/riveracasey/EIRENA-token/main/assets/metadata.json" \
